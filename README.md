@@ -29,3 +29,51 @@ User: Andrei Password: AND2
 
 **Status**
 NEW
+
+
+-----------
+
+**Priority and severity**
+P3 - High
+
+**Title**
+Pictures are not shown
+
+**Description**
+When searching for products the pictures are not shown
+
+**Steps to reproduce**
+1. Open webisite www.website.com/allproducts
+2. Search for *product name*
+3. Check out the results than click on "Show all results"
+
+**Expected results**
+Picture should appear for every product 
+
+**Actual restult**
+Picture is not shown
+
+**Status**
+IN PROGRESS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
